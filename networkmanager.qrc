@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file>networkmanager.ru_RU.qm</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file alias="ui.qml">qml/ui.qml</file>
+    </qresource>
+</RCC>
